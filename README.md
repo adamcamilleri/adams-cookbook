@@ -4,30 +4,16 @@ A web application that generates personalized recipes based on available ingredi
 
 ## Features
 
-- AI-powered recipe generation
-- Ingredient-based recipe search
-- Smart ingredient substitution suggestions
+- Recipe search
 - User-friendly interface
-- Recipe saving and sharing
+- Recipes/cooking guides
 
 ## Technologies Used
 
-- React
-- Node.js
-- OpenAI API
-- MongoDB
-
-## Getting Started
-
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Set up environment variables for API keys
-4. Run the development server: `npm start`
+- CSS
+- HTML
+- JavaScript
 
 ## Live Demo
 
-Visit the live demo at: [Adam's Cookbook Demo](https://adamcamilleri.github.io/projects/recipeforge/)
-
-## License
-
-MIT License 
+Visit the live demo at: (https://adamcamilleri.github.io/projects/recipeforge/)
