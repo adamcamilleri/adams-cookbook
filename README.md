@@ -1,6 +1,6 @@
 # Adam's Cookbook
 
-A web application that generates personalized recipes based on available ingredients using AI to analyze combinations and suggest substitutions.
+A web application that showcases my personal recipes from my TikTok page.
 
 ## Features
 
